@@ -1,5 +1,4 @@
 const inquirer = require('inquirer');
-const { stdin } = require('nodemon/lib/config/defaults');
 require('colors');
 
 const questions = [
